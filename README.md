@@ -11,7 +11,7 @@ Data is collected via I2S digital interface on a Raspberry Pi 4B and processed u
 
 ## Hardware Used
 
-- [Raspberry Pi 4B](https://www.raspberrypi. org/products/raspberry-pi-4-model-b/)
+- [Raspberry Pi 4B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
 - [SPH0645LM4H I2S MEMS Microphone](https://www.knowles.com/docs/default-source/model-downloads/sph0645lm4h-b-datasheet-rev-c.pdf)
 - 10kΩ Resistor (pull-up for I2S lines)
 - Breadboard and jumper wires
