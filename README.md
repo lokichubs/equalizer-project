@@ -104,25 +104,4 @@ jupyter notebook equalizer_analysis.ipynb
 # The sliders can be adjusted to acheive any cut off - not just the telephone affect
 ```
 ## My Results
-
-- Full analysis and results available in [Documentation/Final_Report.pdf](Documentation/Final_Report.pdf)
-- IEEE Transactions format with comprehensive discussion of methods, results, and error analysis
-
-## References
-
-[1] Analog Devices, "Understanding and eliminating 1/f noise," *Analog Dialogue*.  [Online]. Available: https://www. analog.com/en/resources/analog-dialogue/articles/understanding-and-eliminating-1-f-noise. html
-
-[2] A. V. Oppenheim and R.  W. Schafer, *Discrete-Time Signal Processing*, 3rd ed. Upper Saddle River, NJ: Prentice Hall, 2009.
-
-[3] P. Welch, "The use of fast Fourier transform for the estimation of power spectra: A method based on time averaging over short, modified periodograms," *IEEE Trans. Audio Electroacoust. *, vol. 15, no. 2, pp. 70–73, Jun. 1967.
-
-[4] S. Butterworth, "On the theory of filter amplifiers," *Wireless Engineer*, vol. 7, pp. 536–541, Oct. 1930.
-
-[5] Knowles Electronics, "SPH0645LM4H-B datasheet: Digital MEMS microphone," *Knowles Acoustics*, 2016.  [Online]. Available: https://www.knowles.com/docs/default-source/model-downloads/sph0645lm4h-b-datasheet-rev-c.pdf
-
-[6] V. Välimäki and J. D. Reiss, "All about audio equalization: Solutions and frontiers," *Applied Sciences*, vol. 6, no. 5, p. 129, May 2016.
-
-[7] U. Zölzer, Ed., *DAFX: Digital Audio Effects*, 2nd ed. Chichester, UK: Wiley, 2011.
-
-**Author:** Lokesh Sriram  
-**Project Repository:** [github.com/lokichubs/equalizer-project](https://github.com/lokichubs/equalizer-project)
+- Full analysis and results available in [Documentation/Final_Report.pdf](Documentation/Final_Report.pdf) in IEEE format
